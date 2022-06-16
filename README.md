@@ -12,7 +12,7 @@
 go run main.go --sort=<sort options>
 ```
 
-In this programe, I have 2 options sort (**"MergeSort"** and **"RadixSort"**), you can choose between these option (default is MergeSort) 
+In this programe, I have 2 options sort (**"MergeSort"** and **"RadixSort"**), you can choose between these option (default is MergeSort)
 
 Example
 
@@ -26,7 +26,3 @@ go run main.go --sort=RadixSort
 ## Contributing
 
 Code by H3des
-
-## Note
-
-Pull this code is welcome
